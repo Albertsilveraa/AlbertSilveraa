@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert Silvera</h1>
 <h3 align="center">A passionate sofware Enginner Student of Peru.</h3>
 
+- 📫 How to reach me **Albertjesussilveraa@gmial.com**
 - 📫 How to reach me **pinguigalcr7@gmial.com**
 
 <h3 align="left">Connect with me:</h3>
