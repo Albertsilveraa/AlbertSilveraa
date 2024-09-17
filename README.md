@@ -13,18 +13,18 @@
 
 
 ```
-I-am-vishalmaurya@github
+I-am-Albert-De-la-Cruz-Sivlera
 -------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-👨🏽‍💻 Check out my blog at pythonicnerds.me
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+👨🏽‍💻 Check out my blog at (error404)
+📚 I am studying software engineering.
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+🔭 Working on Python Backend
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Python, JavaScript, Java
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love rock, Pop, Alternative,Cumbia, and Huayno music
 ```
 <hr>
 <h3 align="left">Connect with me:</h3>
