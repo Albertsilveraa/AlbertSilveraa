@@ -24,7 +24,7 @@ I-am-Albert-De-la-Cruz-Silvera
 🌟 Main languages: Python, JavaScript, Java
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love rock, Pop, Alternative,Cumbia, and Huayno music
+🎵 Love rock, Pop, Alternative,Cumbia,jazz,blues,EDM, and Huayno music
 ```
 <hr>
 <h3 align="left">Connect with me:</h3>
