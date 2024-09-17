@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Albert Silvera  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" align='right'/> <a href="https://github.com/Albertsilveraa"> </a> 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
+<a href="https://github.com/Albertsilveraa"></a>
+
    <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=portafolio.com;Software+Engineer+Student;Full+Stack+Web+Developer;Artificial+Intelligence;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
