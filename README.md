@@ -10,7 +10,23 @@
 
 - 📫 How to reach me **Albertjesussilveraa@gmial.com**
 - 📫 How to reach me **pinguigalcr7@gmial.com**
+<hr>
 
+```
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+👨🏽‍💻 Check out my blog at pythonicnerds.me
+📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/albert-jesus-de-la-cruz-silvera-4a49a6205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albert de la cruz silve" height="30" width="40" /></a>
