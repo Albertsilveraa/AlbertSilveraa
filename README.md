@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Albert Silvera  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" style="width: 400px; height: 400px; object-fit: cover;" align='right'/>
 <a href="https://github.com/Albertsilveraa"></a>
 
    <p align="center">
