@@ -75,7 +75,6 @@ I-am-Albert-De-la-Cruz-Silvera
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=Albertsilveraa&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Albertsilveraa&icon=3&color=0)](https://visitcount.itsvg.in) <img src="<iframe src="https://giphy.com/embed/mQG644PY8O7rG" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mQG644PY8O7rG">via GIPHY</a></p>" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-ordena esto. 
+
