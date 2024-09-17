@@ -73,8 +73,10 @@ I-am-Albert-De-la-Cruz-Silvera
 ![](https://github-contributor-stats.vercel.app/api?username=Albertsilveraa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
+<p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
+</p>   
 ---
-[![](https://visitcount.itsvg.in/api?id=Albertsilveraa&icon=3&color=0)](https://visitcount.itsvg.in) <img src="<iframe src="https://giphy.com/embed/mQG644PY8O7rG" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mQG644PY8O7rG">via GIPHY</a></p>" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
 
 
