@@ -71,9 +71,8 @@ I-am-Albert-De-la-Cruz-Silvera
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Albertsilveraa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
 <p>
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29weDEydGRrbndkbHRoaGhheGcyY3piZTkzb2Q2M2poYjF1Y281dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26gsxhsA2fLHg5yQE/giphy.gif" alt="Profile views" style="width: 150px; height: 150px; object-fit: cover;" align='right'/>
 </p>   
